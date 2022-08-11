@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/northcoders/fun-pokemon-battler#readme",
   "devDependencies": {
+    "cz-emoji": "^1.3.2-canary.2",
     "jest": "^28.1.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-emoji"
+    }
   }
 }
